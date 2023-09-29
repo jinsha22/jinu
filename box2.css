@@ -1,0 +1,28 @@
+.c{
+    width: 400px;
+    height: 200px;
+    border: 2px black double;
+}
+
+.c1{
+    background-color: azure;
+    margin-top: 300px;
+    margin-left: 400px;
+}
+.c2{
+    background-color: aqua;
+    margin-top:0px;
+    margin-left: 800px;
+}
+span{
+    color: blue ;
+}
+#d1{
+    color: rosybrown;
+}
+body{
+    background-color: rgba(255, 255, 255, 0);
+    background-image: url("./image/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
